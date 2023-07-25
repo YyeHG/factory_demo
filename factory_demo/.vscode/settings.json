@@ -1,0 +1,28 @@
+{
+    "idf.portWin": "COM3",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "ledc.h": "c",
+        "gpio.h": "c",
+        "my_uart.h": "c",
+        "esp-box.h": "c",
+        "uart_init.h": "c",
+        "uart.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "istream": "c",
+        "ostream": "c",
+        "regex": "c",
+        "random": "c",
+        "oledfont.h": "c",
+        "i2c.h": "c",
+        "stdlib.h": "c",
+        "numbers": "c",
+        "esp_log.h": "c",
+        "esp-bsp.h": "c"
+    }
+}

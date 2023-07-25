@@ -1,0 +1,144 @@
+dependencies:
+  chmorgan/esp-audio-player:
+    component_hash: 6761973f9f117571afcf1f70db4036a226dddee347c39e66518e4fcb3f521c16
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.4
+  chmorgan/esp-file-iterator:
+    component_hash: 327091394b9ef5c2cd395a960ab70ae64479e0a8831cbd9925e38895fad93719
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.0
+  chmorgan/esp-libhelix-mp3:
+    component_hash: cbb76089dc2c5749f7b470e2e70aedc44c9da519e04eb9a67d4c7ec275229e53
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.3
+  espressif/button:
+    component_hash: f15af2d7b022536fa1f1328a6a9cd48f4d893dbeed3b3e91d32566ad8002570e
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.5.1
+  espressif/cmake_utilities:
+    component_hash: 32d235c66d22f05ca3b5a3c2bdf273edd273b1e624b144fa8635066be50bae7b
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.4.8
+  espressif/es7210:
+    component_hash: f6fac5afbf43337f715a9665b80c2db1912292fcb63237bb56515ed94b3012e2
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.1
+  espressif/es8311:
+    component_hash: eacbe7cb7f6993eb0f439121a56663cdfbf95925e7ddf5d2ed5aa640bed476fd
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.0
+  espressif/esp-box:
+    component_hash: 5e72795c23ca416cca3ae02c7c122efbaf121c582c0438ac494374fbe50430cb
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.3.3
+  espressif/esp-sr:
+    component_hash: 09df5551da32ed05ba39eda09e048ff5ae70106f344fef8db50c2c0fa3f2ec24
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.0
+  espressif/esp_lcd_touch:
+    component_hash: 847284c65f8d5aaa9a801f5b3d3dac0ba0a5a2dc1bb68890989e84dd9c4a9d53
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.4
+  espressif/esp_lcd_touch_tt21100:
+    component_hash: 27d0ec1226e2ce81ad6a170b27530dbcf959cd1fb9abe1ba207509a8a2f2ed22
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.7~1
+  espressif/esp_lvgl_port:
+    component_hash: 5f7ec130fcfe1d5339cbd5b202766349e8614cd6504636d8902eb41823cb2ce7
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.2.0
+  espressif/esp_rainmaker:
+    component_hash: c4a528742e4cceba61e1ba9eabb3547ac525141d7d6083238c0c83dc334a36fc
+    source:
+      git: https://github.com/espressif/esp-rainmaker.git
+      path: components/esp_rainmaker
+      type: git
+    version: cc861bffc818c607e799f66c79923fd4e2d00447
+  espressif/esp_schedule:
+    component_hash: 8d11eec0548110ca607bd3991afcb208f17eb28140be56a5787ed8999406307e
+    source:
+      git: https://github.com/espressif/esp-rainmaker.git
+      path: components/esp_schedule
+      type: git
+    version: cc861bffc818c607e799f66c79923fd4e2d00447
+  espressif/esp_secure_cert_mgr:
+    component_hash: 0a7b7f1c26fbd6fd8f49cc90f39203e3ab9cf334bbbf288bede9db745c35892c
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.3.1
+  espressif/json_generator:
+    component_hash: 41da0ab732877184092676c50b5f3f3bf37ad783de2f9c27e441944e01b7d51b
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.1
+  espressif/json_parser:
+    component_hash: 2130029a8c005ba12476c5b5ae5c1c4589cb0c171f8100644d1ab883434eb91f
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.0
+  espressif/led_strip:
+    component_hash: 7e92a0c8a2e35b40904f88e88ce3c0dffff504a2763f70fba7ef4787cf2eec83
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.0.0
+  espressif/mdns:
+    component_hash: 53b22a3b01d0b61180369a5dab00e271f1e725164b6affbc73af85e80b043658
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.2.0
+  espressif/qrcode:
+    component_hash: e07c05f9129250d79c62957c02e2f67d3485e917e6953cbc6637324b3a47ea7f
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.1.0
+  espressif/rmaker_common:
+    component_hash: e3093e5e2bc6261652079dcfbc746359f57603b8fa888cc95e5b7b494a4160bf
+    source:
+      git: https://github.com/espressif/esp-rainmaker-common.git
+      path: ./
+      type: git
+    version: b5c21128fb9b37316cb38c8edf2facb63013cc74
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.0.2
+  lvgl/lvgl:
+    component_hash: 2c0e0a0c48cf696bfa2b7ab0ef31843fd9a162620683ab9d916a0d43a3240441
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 8.3.8
+manifest_hash: 7305a8e3e12a6f1c5c70dc659fc596f1f75c13c782d741ff7cc3893a161d82db
+target: esp32s3
+version: 1.0.0
